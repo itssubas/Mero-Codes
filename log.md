@@ -20,3 +20,7 @@ Day 4
     - Cleared the concept of immutable and mutable objects(not fully, but to some extend :D )
     
     
+Day 5
+
+    20-Dec-2017
+    -today i tried to make python list handy
