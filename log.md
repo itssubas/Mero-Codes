@@ -24,3 +24,8 @@ Day 5
 
     20-Dec-2017
     -today i tried to make python list handy
+    
+Day 6
+
+    21st Dec, 2017
+    -Today I simply learnt about calendar module
