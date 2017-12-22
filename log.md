@@ -29,3 +29,9 @@ Day 6
 
     21st Dec, 2017
     -Today I simply learnt about calendar module
+    
+Day 7
+
+    22nd Dec, 2017
+    -I started learning regular expressions. I'll be doing some days long practice using regular expression.
+    
