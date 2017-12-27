@@ -39,3 +39,6 @@ Day 8
 
     27th Dec, 2017
     - Learnt OOP in python more clearly than ever
+    - classes and instances, class variables
+    - next day i'll be learning about classmethods, static methods, 
+    inheritances and more OOP stuffs
