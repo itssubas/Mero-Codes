@@ -35,3 +35,7 @@ Day 7
     22nd Dec, 2017
     -I started learning regular expressions. I'll be doing some days long practice using regular expression.
     
+Day 8
+
+    27th Dec, 2017
+    - Learnt OOP in python more clearly than ever
