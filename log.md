@@ -42,3 +42,11 @@ Day 8
     - classes and instances, class variables
     - next day i'll be learning about classmethods, static methods, 
     inheritances and more OOP stuffs
+    
+Day 9 
+
+    28th Dec, 2017
+    -learnt decorators first time. Regular method 
+    is(self) method. Classmethod is cls method whereas we do 
+    not pass any first argument in static method. 
+    @classmethod and @staticmethod are know as decorators
