@@ -63,3 +63,11 @@ mgr_1.remove_emp(dev_1)
 
 mgr_1.print_emp()
 
+print(isinstance(mgr_1, Manager)) #True
+print(isinstance(mgr_1, Employee)) #True
+print(isinstance(mgr_1, Developer)) #False
+
+print(issubclass(Manager, Employee)) #True
+print(issubclass(Developer, Manager)) #False
+
+
