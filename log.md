@@ -50,3 +50,13 @@ Day 9
     is(self) method. Classmethod is cls method whereas we do 
     not pass any first argument in static method. 
     @classmethod and @staticmethod are know as decorators
+    
+Day 10
+
+    29th Dec, 2017
+    -Class Inheritance
+    
+Day 11
+
+    31st Dec, 2017
+    -mero-text, a plain text editor
