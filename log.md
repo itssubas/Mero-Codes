@@ -60,3 +60,15 @@ Day 11
 
     31st Dec, 2017
     -mero-text, a plain text editor
+    
+Day 12
+
+    1st Jan, 2018
+    Made a simple text editor. Its fairly simple and beginner level.
+    
+Day 13
+
+    2nd Jan, 2018
+    -Continuing my OOP tutorials.
+    -Learned some special methods like __repr__(), __str__() 
+    
