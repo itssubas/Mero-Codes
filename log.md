@@ -72,3 +72,6 @@ Day 13
     -Continuing my OOP tutorials.
     -Learned some special methods like __repr__(), __str__() 
     
+Day 14
+
+	- Wrapper decorator
