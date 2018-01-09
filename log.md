@@ -75,3 +75,7 @@ Day 13
 Day 14
 
 	- Wrapper decorator
+
+Day 15
+
+	- Tried jekyll, learned a bit more about jekyll.
